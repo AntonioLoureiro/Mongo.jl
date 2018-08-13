@@ -30,6 +30,6 @@ include("query.jl")
 include("bulk_insert.jl")
 include("aggregate.jl")
 include("conversions.jl")
-
+include("actions.jl")
 
 end
